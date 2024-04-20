@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hi there"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hi there",
+      "answer": "hello there"
+    },
+    {
+      "question": "how old are you",
+      "answer": "I am a part of the Internet, so pretty old than you :)"
+    },
+    {
+      "question": "do you know my name?",
+      "answer": "You are yezi, my master "
+    }
+  ]
+}
